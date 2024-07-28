@@ -12,27 +12,27 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={viberr}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://yash-mahindroo-portfolio.netlify.app/"
           h3="Portfolio"
           p="Next.js Portfolio"
         />
         <ProjectCard
           src={freshBurger}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link=""
           h3="BuddyAI"
           p="AI ChatBot"
         />
         <ProjectCard
           src={hipsster}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link=""
           h3="AI Nexa"
-          p="Glasses Shop"
+          p="SaaS Application"
         />
         <ProjectCard
           src={fitLift}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="FitLift"
-          p="Fitness App"
+          link=""
+          h3="Health Connect"
+          p="Patient Management"
         />
       </div>
     </section>
